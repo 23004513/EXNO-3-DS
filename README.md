@@ -164,7 +164,7 @@ plt.show()
 ```
 sm.qqplot(np.reciprocal(df["Moderate Negative Skew"]),line='45')
 plt.show()
-``
+```
 ![image](https://github.com/user-attachments/assets/4ac69d79-14f5-48ae-82f8-79e270ceb2b9)
 ```
 from sklearn.preprocessing import QuantileTransformer
